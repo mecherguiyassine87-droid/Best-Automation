@@ -29,7 +29,7 @@ public class ConfigReader {
         }
     }
 
-    // Lire une propriété par son nom
+    // Lire une propriété par son nom    // Lire une propriété par son nom    // Lire une propriété par son nom    // Lire une propriété par son nom
     public static String get(String key) {
 
         String value = System.getProperty(key);
